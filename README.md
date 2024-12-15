@@ -88,6 +88,7 @@ Learn more about the Fuel Ecosystem.
 - [⚡ Fuel Network](https://fuel.network/) — The project
 - [📚 The Fuel Forum](https://forum.fuel.network/) — Ask questions, get updates, and contribute to a modular future
 
+
 # License
 
 The primary license for this repo is `Apache 2.0`, see [`LICENSE`](https://github.com/FuelLabs/fuels-ts/blob/master/LICENSE).
